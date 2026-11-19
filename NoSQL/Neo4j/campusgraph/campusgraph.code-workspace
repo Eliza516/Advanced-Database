@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "campusgraph",
+			"path": "."
+		},
+		{
+			"name": "Neo4j",
+			"path": "../Documents/S5/CSDL NC/Neo4j"
+		}
+	],
+	"settings": {}
+}
